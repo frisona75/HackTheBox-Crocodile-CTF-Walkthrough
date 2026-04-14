@@ -5,7 +5,7 @@
 
 ## Machine link
 Here is a link for the machine so you can try it yourself
-[Crocodile - HTB](https://app.hackthebox.com/machines/Crocodile?tab=machine_info&sort_by=created_at&sort_type=desc)
+[Crocodile - HTB](https://www.hackthebox.com/machines/crocodile)
 
 ## Walkthrough
 Start by running an nmap scan on the machine to see what ports are open. Running the command below to also run default scripts, check service versions, and the operating system.
