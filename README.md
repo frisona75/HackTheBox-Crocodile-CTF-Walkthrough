@@ -8,7 +8,7 @@ Here is a link for the machine so you can try it yourself
 [Crocodile - HTB](https://www.hackthebox.com/machines/crocodile)
 
 ## Walkthrough
-Start by running an nmap scan on the machine to see what ports are open. Running the command below to also run default scripts, check service versions, and the operating system.
+Start by running an nmap scan on the machine to see what ports are open. Running the command below will also run default scripts, check service versions, and the operating system.
 ```
 sudo nmap -sC -sV -O 10.129.89.158
 ```
